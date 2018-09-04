@@ -22,6 +22,7 @@ python基础,django,django+angluar
   * [Django REST Framework + AngularでTodoアプリを作る](https://qiita.com/xKxAxKx/items/14d81209ac195e485338#django)
   * [Django Framework Rest docment](http://www.django-rest-framework.org/#quickstart)
   * [angular](https://angular.cn/)
+  * [angular+django+webpack](https://www.techiediaries.com/django-angular-tutorial/)
   
  
   
