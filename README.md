@@ -19,6 +19,7 @@ python基础,django,django+angluar
   * [Django REST framework (DRF) with Angular 4|5 Tutorial](https://www.techiediaries.com/django-rest-framework-angular-2/)
   * [Angular + Django(video)](https://www.codingforentrepreneurs.com/projects/angular-django/)
   * [Angular + Django(github)](https://github.com/codingforentrepreneurs/Angular-Django)
+  * [Django REST Framework + AngularでTodoアプリを作る](https://qiita.com/xKxAxKx/items/14d81209ac195e485338#django)
   
   
   
