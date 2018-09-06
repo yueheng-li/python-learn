@@ -24,6 +24,8 @@ python基础,django,django+angluar
   * [angular](https://angular.cn/)
   * [angular+django+webpack](https://www.techiediaries.com/django-angular-tutorial/)
   
+# TODO使用django+angluar搭建一个CRM系统
+  
  
   
   
